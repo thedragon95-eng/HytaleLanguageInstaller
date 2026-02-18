@@ -3,15 +3,16 @@
   "app_download_url": "https://github.com/thedragon95-eng/HytaleLanguageInstaller/releases/latest",
   "notes": "Initial release.",
   "language_packs": {
-    "Deutsch": "7585724",
-    "Español": "7584564",
-    "Français": "7584567",
-    "Русский": "7584570",
+    "Deutsch": "7640578",
+    "Español": "7640579",
+    "Français": "7640580",
+    "Русский": "7640581",
     "Português (Brasil)": "7584549",
-    "العربية": "7584461",
-    "Italiano": "7584573",
-    "Türkçe": "7584581",
-    "Dansk": "7584551",
-    "Svenska": "7584590"
+    "العربية": "7640598",
+    "Italiano": "7640599",
+    "Türkçe": "7640602",
+    "Dansk": "7640612",
+    "Svenska": "7640613",
+    "Українська": "7640606"
   }
 }
